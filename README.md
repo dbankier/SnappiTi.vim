@@ -1,6 +1,6 @@
-#SnippiTi.vim
+#SnappiTi.vim
 
-SnippiTi Vim plugin
+SnappiTi Vim plugin
 
 <c-e> converts the current line
 <c-r> converts the current line with --hide-styling flag

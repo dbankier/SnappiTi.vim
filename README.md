@@ -2,8 +2,8 @@
 
 SnappiTi Vim plugin
 
-<c-e> converts the current line
-<c-r> converts the current line with --hide-styling flag
+<c-e>, converts the current line
+<c-e>. converts the current line with --hide-styling flag
 
 # Install
 

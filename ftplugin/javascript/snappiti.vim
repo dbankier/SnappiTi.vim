@@ -1,9 +1,9 @@
 if !exists('g:snappitiExecuteMapping')
-  let g:snappitiExecuteMapping = '<c-e>'
+  let g:snappitiExecuteMapping = '<c-e>,'
 endif
 
 if !exists('g:snappitiExecuteMappingNoStyle')
-  let g:snappitiExecuteMappingNoStyle = '<c-r>'
+  let g:snappitiExecuteMappingNoStyle = '<c-e>.'
 endif
 
 
